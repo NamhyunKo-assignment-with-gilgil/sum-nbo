@@ -4,7 +4,7 @@ https://gitlab.com/gilgil/sns/-/wikis/byte-order/report-sum-nbo
 
 ## 과제 영상
 
-
+https://youtu.be/P0nZgspO0KU
 
 ## 공부 내용
 
